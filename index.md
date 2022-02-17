@@ -10,11 +10,12 @@ layout: default
 
 **Before that** - Telecommunications engineer @ [Saudi Aramco](https://www.aramco.com/), worked on strategy and technology planning, network security, and performance engineering.
 
-I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness.
+## Research
 
-```
-[Full Resume](./ibrahim_alabdulmohsin.pdf)
-```
+> I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness.
+
+> [Full Resume](./ibrahim_alabdulmohsin.pdf)
+
 
 # Education
 
