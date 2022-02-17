@@ -14,7 +14,7 @@ layout: default
 
 I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness.
 
-# Education
+## Education
 
 - **Ph.D.** in Computer Science at [KAUST](https://www.kaust.edu.sa/), 2017.
   - (_GPA: 4.0 / 4.0_)
