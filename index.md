@@ -22,7 +22,6 @@ I am currently a research scientist at Google Brain, working on understanding de
   - Defense Committee: Xiangliang Zhang (KAUST), Xin Gao (KAUST), David Keyes (KAUST), and Wei Wang (UCLA).
 - **M.S.** in Electrical Engineering at [Stanford University](https://www.stanford.edu/), 2011. 
   - _GPA: 4.15 / 4.0_
-  - Coursework: Computer Networks, Stochastic Modeling, Convex Optimization, Applied Number Theory, Linear Dynamical Systems, Machine Learning, Operations Management, Information Theory, Artificial Intelligence, Cognitive Psychology, Inference and Estimation.
 - **B.S.** in Computer Engineering at [University of Nebraska, Lincoln](https://www.unl.edu/), 2005 
   - _Highest Distinction_ 
   - Minor in Economics
