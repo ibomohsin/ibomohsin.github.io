@@ -12,7 +12,9 @@ layout: default
 
 ## Research
 
-I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness. Check out [my CV](./ibrahim_alabdulmohsin.pdf) for a full publication list.
+I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness. 
+
+Check out [my CV](./ibrahim_alabdulmohsin.pdf) for a full publication list.
 
 ## Education
 
