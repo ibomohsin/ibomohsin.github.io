@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Ibrahim Alabdulmohsin
-description: [A short description of your site's purpose]
+description: description
+show_downloads: false
