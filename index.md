@@ -12,9 +12,10 @@ layout: default
 
 ## Research
 
-> I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness.
+I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness.
 
-> [Full Resume](./ibrahim_alabdulmohsin.pdf)
+
+[```Full Resume```](./ibrahim_alabdulmohsin.pdf)
 
 
 # Education
