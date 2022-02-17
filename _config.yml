@@ -3,7 +3,7 @@ logo: ./profile.jpg
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Ibrahim Alabdulmohsin
-description: Research Scientist <br> <a href="./ibrahim_alabdulmohsin.pdf">Resume</a> <br> <a href="https://twitter.com/ibomohsin">Twitter</a>  <a href='ibo.mohsin@gmail.com'>Contact</a>
+description: Research Scientist <br> <a href="./ibrahim_alabdulmohsin.pdf">Resume</a> <br> <a href="https://twitter.com/ibomohsin">Twitter</a><br>  <a href='mailto:ibo.mohsin@gmail.com'>Contact</a>
 show_downloads: false
 github:
   is_project_page: false
