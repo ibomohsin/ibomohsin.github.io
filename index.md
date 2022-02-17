@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About me
+## About me
 
 **ML research scientist** @ [Google Brain](https://research.google/teams/brain/) in Zurich. 
 
