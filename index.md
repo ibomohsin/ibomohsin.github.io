@@ -17,8 +17,12 @@ I am currently a research scientist at Google Brain, working on understanding de
 ## Education
 
 - **Ph.D.** in Computer Science at [KAUST](https://www.kaust.edu.sa/), 2017.
-  - (_GPA: 4.0 / 4.0_)
+  - _GPA: 4.0 / 4.0_
+  - Thesis: _Learning via Query Synthesis_, defended on April 9, 2017.
+  - Defense Committee: Xiangliang Zhang (KAUST), Xin Gao (KAUST), David Keyes (KAUST), and Wei Wang (UCLA).
 - **M.S.** in Electrical Engineering at [Stanford University](https://www.stanford.edu/), 2011. 
-  - (_GPA: 4.15 / 4.0_)
-- **B.S.** in Computer Engineering at the [University of Nebraska, Lincoln](https://www.unl.edu/), 2005 
-  - (_Highest Distinction_). 
+  - _GPA: 4.15 / 4.0_
+  - Coursework: Computer Networks, Stochastic Modeling, Convex Optimization, Applied Number Theory, Linear Dynamical Systems, Machine Learning, Operations Management, Information Theory, Artificial Intelligence, Cognitive Psychology, Inference and Estimation.
+- **B.S.** in Computer Engineering at [University of Nebraska, Lincoln](https://www.unl.edu/), 2005 
+  - _Highest Distinction_ 
+  - Minor in Economics
