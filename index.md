@@ -14,7 +14,7 @@ layout: default
 
 I am currently a research scientist at Google Brain, working on understanding deep neural networks and developing tools for improving the societal impact of AI, mostly around fairness. 
 
-Check out [my CV](./ibrahim_alabdulmohsin.pdf) and [full publication list](https://dblp.org/pid/153/5393.html).
+Check out [my CV](./one_page_cv.pdf) and [full publication list](https://dblp.org/pid/153/5393.html).
 
 ## Education
 
