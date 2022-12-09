@@ -25,9 +25,9 @@ Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](http
 - Chair of AI track of the 2019 [Arab-American Frontiers Symposium](https://www.nationalacademies.org/our-work/arab-american-frontiers-of-science-engineering-and-medicine), 2019.
 
 ## Recent Publications
-- Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai: "Revisiting Neural Scaling Laws in Language and Vision," NeurIPS, 2022.
-- Ibrahim Alabdulmohsin, Jessica Schrouff, Oluwasanmi Koyejo: "A Reduction to Binary Approach for Debiasing Multiclass Datasets,"  NeurIPS, 2022.
-- Jessica Schrouff, Natalie Harris, Oluwasanmi Koyejo, Ibrahim Alabdulmohsin, Eva Schnider, Krista Opsahl-Ong, Alexander Brown, Subhrajit Roy, Diana Mincu, Christina Chen, Awa Dieng, Yuan Liu, Vivek Natarajan, Alan Karthikesalingam, Katherine A. Heller, Silvia Chiappa, Alexander D'Amour: "Maintaining fairness across distribution shift: do we have viable solutions for real-world applications?", NeurIPS, 2022.
+- Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai: "*Revisiting Neural Scaling Laws in Language and Vision*," **NeurIPS**, 2022.
+- Ibrahim Alabdulmohsin, Jessica Schrouff, Oluwasanmi Koyejo: "*A Reduction to Binary Approach for Debiasing Multiclass Datasets*,"  **NeurIPS**, 2022.
+- Jessica Schrouff, Natalie Harris, Oluwasanmi Koyejo, Ibrahim Alabdulmohsin, Eva Schnider, Krista Opsahl-Ong, Alexander Brown, Subhrajit Roy, Diana Mincu, Christina Chen, Awa Dieng, Yuan Liu, Vivek Natarajan, Alan Karthikesalingam, Katherine A. Heller, Silvia Chiappa, Alexander D'Amour: "*Maintaining fairness across distribution shift: do we have viable solutions for real-world applications?*", **NeurIPS**, 2022.
 - Alexander Soen, Ibrahim Alabdulmohsin, Sanmi Koyejo, Yishay Mansour, Nyalleng Moorosi, Richard Nock, Ke Sun, Lexing Xie: 
-"Fair Wrapping for Black-box Predictions," NeurIPS, 2022.
+"*Fair Wrapping for Black-box Predictions*," **NeurIPS**, 2022.
 
