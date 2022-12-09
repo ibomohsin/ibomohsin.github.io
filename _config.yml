@@ -3,7 +3,7 @@ logo: ./profile.jpg
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Ibrahim Alabdulmohsin
-description: Research Scientist <br> <a href="./ibrahim_alabdulmohsin.pdf"><a href="https://www.linkedin.com/in/ibrahimalabdulmohsin/"><img width="10%" height="10%" src="https://img.icons8.com/ios-filled/50/000000/file.png"/></a></a><a href="https://www.linkedin.com/in/ibrahimalabdulmohsin/"><img width="10%" height="10%" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a> <a href="https://twitter.com/ibomohsin"><img width="10%" height="10%" src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/></a> <a href='mailto:ibo.mohsin@gmail.com'><img width="10%" height="10%" src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-interface-kiranshastry-solid-kiranshastry.png"/></a>
+description: Research Scientist <br> <a href="./ibrahim_alabdulmohsin.pdf"><img width="10%" height="10%" src="https://img.icons8.com/ios-filled/50/000000/file.png"/></a></a><a href="https://www.linkedin.com/in/ibrahimalabdulmohsin/"><img width="10%" height="10%" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a> <a href="https://twitter.com/ibomohsin"><img width="10%" height="10%" src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/></a> <a href='mailto:ibo.mohsin@gmail.com'><img width="10%" height="10%" src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-interface-kiranshastry-solid-kiranshastry.png"/></a>
 show_downloads: false
 github:
   is_project_page: false
