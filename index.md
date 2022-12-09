@@ -24,6 +24,9 @@ Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](http
 - Member of the [S20 Task Force](https://s20saudiarabia.org.sa/theme.html) (Digital Revolution), 2020.
 - Chair of AI track of the 2019 [Arab-American Frontiers Symposium](https://www.nationalacademies.org/our-work/arab-american-frontiers-of-science-engineering-and-medicine), 2019.
 
+## Books
+Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
+
 ## Recent Publications
 - Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai: "*Revisiting Neural Scaling Laws in Language and Vision*," **NeurIPS**, 2022.
 - Ibrahim Alabdulmohsin, Jessica Schrouff, Oluwasanmi Koyejo: "*A Reduction to Binary Approach for Debiasing Multiclass Datasets*,"  **NeurIPS**, 2022.
