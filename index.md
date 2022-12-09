@@ -13,10 +13,10 @@ Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](http
 
 ## Education
 
-- **Ph.D.** in Computer Science at [KAUST](https://www.kaust.edu.sa/), _GPA: 4.0 / 4.0_, 2012 - 2017.
+- **Ph.D.** in Computer Science at [KAUST](https://www.kaust.edu.sa/) (2012 - 2017), _GPA: 4.0 / 4.0_.
   - Thesis Title: _Learning via Query Synthesis_, Committee: X. Zhang, X. Gao, D. Keyes (KAUST), and W. Wang (UCLA).
-- **M.S.** in Electrical Engineering at [Stanford University](https://www.stanford.edu/), _GPA: 4.15 / 4.0_, 2009 - 2011. 
-- **B.S.** in Computer Engineering at [University of Nebraska, Lincoln](https://www.unl.edu/),  _GPA: 3.98 / 4.0_, 2000 - 2005 
+- **M.S.** in Electrical Engineering at [Stanford University](https://www.stanford.edu/) (2009 - 2011), _GPA: 4.15 / 4.0_. 
+- **B.S.** in Computer Engineering at [University of Nebraska, Lincoln](https://www.unl.edu/) (2000 - 2005),  _GPA: 3.98 / 4.0_.
   - _Highest Distinction_, _Superior Scholarship Award_, _Minor in Economics_.
 
 ## Selected Activities
