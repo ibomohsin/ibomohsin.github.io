@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-**ML research scientist** @ [Google Brain](https://research.google/teams/brain/) in Zurich. 
+**ML research scientist** @ [Google Brain](https://research.google/teams/brain/) in Zurich. [Resume](https://ibomohsin.github.io/ibrahim_alabdulmohsin.pdf)
 
 Welcome to my page! I am a research scientist at [Google Brain](https://research.google/teams/brain/), developing tools for understanding deep learning and improving its societal impact, particularly relating to fairness. 
 
