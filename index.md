@@ -4,9 +4,9 @@ layout: default
 
 ## About me
 
-**ML research scientist** @ [Google Brain](https://research.google/teams/brain/) in Zurich. [Resume](https://ibomohsin.github.io/ibrahim_alabdulmohsin.pdf)
+**ML research scientist** @ [Google Brain](https://research.google/teams/brain/) in Zurich. 
 
-Welcome to my page! I am a research scientist at [Google Brain](https://research.google/teams/brain/), developing tools for understanding deep learning and improving its societal impact, particularly relating to fairness. 
+Welcome to my page! I am a research scientist at [Google Brain](https://research.google/teams/brain/), developing tools for understanding deep learning and improving its societal impact, particularly relating to fairness. Check out my [Resume](https://ibomohsin.github.io/ibrahim_alabdulmohsin.pdf) for further details.
 
 Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](https://www.aramco.com/), managed the company's Enterprise Analytics program, and was a technical lead at its digital transformation program. 
 
