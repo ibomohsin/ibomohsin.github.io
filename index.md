@@ -27,6 +27,11 @@ Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](http
 ## Books
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
+## Recent Preprints
+- Ibrahim Alabdulmohsin, Nicole Chiou, Alexander D'Amour, Arthur Gretton, Sanmi Koyejo, Matt J. Kusner, Stephen R. Pfohl, Olawale Salaudeen, Jessica Schrouff, Katherine Tsai: "*Adapting to Latent Subgroup Shifts via Concepts and Proxies*," arXiv:2212.11254, 2022.
+- Lucas Beyer, Pavel Izmailov, Alexander Kolesnikov, Mathilde Caron, Simon Kornblith, Xiaohua Zhai, Matthias Minderer, Michael Tschannen, Ibrahim Alabdulmohsin, Filip Pavetic: "*FlexiViT: One Model for All Patch Sizes*," arXiv:2212.08013, 2022.
+-  Amr Khalifa, Michael C. Mozer, Hanie Sedghi, Behnam Neyshabur, Ibrahim Alabdulmohsin: "*Layer-Stack Temperature Scaling*," arXiv:2211.10193, 2022.
+
 ## Recent Publications
 - Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai: "*Revisiting Neural Scaling Laws in Language and Vision*," **NeurIPS**, 2022.
 - Ibrahim Alabdulmohsin, Jessica Schrouff, Oluwasanmi Koyejo: "*A Reduction to Binary Approach for Debiasing Multiclass Datasets*,"  **NeurIPS**, 2022.
