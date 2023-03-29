@@ -6,9 +6,7 @@ layout: default
 
 **ML research scientist** @ [Google Brain](https://research.google/teams/brain/) in Zurich. 
 
-Welcome to my page! I am a research scientist at [Google Brain](https://research.google/teams/brain/), developing tools for understanding deep learning and improving its societal impact, particularly relating to fairness. Check out my [resume](https://ibomohsin.github.io/ibrahim_alabdulmohsin.pdf) for further details.
-
-Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](https://www.aramco.com/), managed the company's Enterprise Analytics program, and was a technical lead at its digital transformation program. 
+Welcome to my page! I am a research scientist at [Google Brain](https://research.google/teams/brain/), focusing on deep learning and ethical AI. Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](https://www.aramco.com/), managed the company’s Enterprise Analytics program, and was a technical lead at its digital transformation program. Check out my [resume](https://ibomohsin.github.io/ibrahim_alabdulmohsin.pdf) for further details.
 
 
 ## Education
@@ -28,10 +26,11 @@ Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](http
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
 ## Recent Preprints
-- Lucas Beyer, Pavel Izmailov, Alexander Kolesnikov, Mathilde Caron, Simon Kornblith, Xiaohua Zhai, Matthias Minderer, Michael Tschannen, Ibrahim Alabdulmohsin, Filip Pavetic: "*FlexiViT: One Model for All Patch Sizes*," arXiv:2212.08013, 2022.
+- Dehghani, M., Djolonga, J., Mustafa, B., Padlewski, P., Heek, J., Gilmer, J., Steiner, A., Caron, M., Geirhos, R., Alabdulmohsin, I., et al. "*Scaling Vision Transformers to 22 Billion Parameters.*" arXiv:2302.05442, 2023.
 -  Amr Khalifa, Michael C. Mozer, Hanie Sedghi, Behnam Neyshabur, Ibrahim Alabdulmohsin: "*Layer-Stack Temperature Scaling*," arXiv:2211.10193, 2022.
 
 ## Recent Publications
+- Lucas Beyer, Pavel Izmailov, Alexander Kolesnikov, Mathilde Caron, Simon Kornblith, Xiaohua Zhai, Matthias Minderer, Michael Tschannen, Ibrahim Alabdulmohsin, Filip Pavetic: "*FlexiViT: One Model for All Patch Sizes*," **CVPR**, 2023.
 - Ibrahim Alabdulmohsin, Nicole Chiou, Alexander D'Amour, Arthur Gretton, Sanmi Koyejo, Matt J. Kusner, Stephen R. Pfohl, Olawale Salaudeen, Jessica Schrouff, Katherine Tsai: "*Adapting to Latent Subgroup Shifts via Concepts and Proxies*," **AISTATS**, 2023.
 - Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai: "*Revisiting Neural Scaling Laws in Language and Vision*," **NeurIPS**, 2022.
 - Ibrahim Alabdulmohsin, Jessica Schrouff, Oluwasanmi Koyejo: "*A Reduction to Binary Approach for Debiasing Multiclass Datasets*,"  **NeurIPS**, 2022.
