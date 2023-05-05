@@ -4,9 +4,9 @@ layout: default
 
 ## About me
 
-**ML research scientist** @ [Google Brain](https://research.google/teams/brain/) in Zurich. 
+**Senior research scientist** @ [Google Deepmind](https://research.google/teams/brain/) in Zurich. 
 
-Welcome to my page! I am a research scientist at [Google Brain](https://research.google/teams/brain/), focusing on deep learning and ethical AI. Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](https://www.aramco.com/), managed the company’s Enterprise Analytics program, and was a technical lead at its digital transformation program. Check out my [resume](https://ibomohsin.github.io/ibrahim_alabdulmohsin.pdf) for further details.
+Welcome to my page! I am a senior research scientist at [Google Deepmind](https://research.google/teams/brain/), focusing on deep learning and ethical AI. Previously, I founded and led the Advanced Analytics team at [Saudi Aramco](https://www.aramco.com/), managed the company’s Enterprise Analytics program, and was a technical lead at its digital transformation program. Check out my [resume](https://ibomohsin.github.io/ibrahim_alabdulmohsin.pdf) for further details.
 
 
 ## Education
@@ -26,10 +26,10 @@ Welcome to my page! I am a research scientist at [Google Brain](https://research
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
 ## Recent Preprints
-- Dehghani, M., Djolonga, J., Mustafa, B., Padlewski, P., Heek, J., Gilmer, J., Steiner, A., Caron, M., Geirhos, R., Alabdulmohsin, I., et al. "*Scaling Vision Transformers to 22 Billion Parameters.*" arXiv:2302.05442, 2023.
 -  Amr Khalifa, Michael C. Mozer, Hanie Sedghi, Behnam Neyshabur, Ibrahim Alabdulmohsin: "*Layer-Stack Temperature Scaling*," arXiv:2211.10193, 2022.
 
 ## Recent Publications
+- Dehghani, M., Djolonga, J., Mustafa, B., Padlewski, P., Heek, J., Gilmer, J., Steiner, A., Caron, M., Geirhos, R., Alabdulmohsin, I., et al. "*Scaling Vision Transformers to 22 Billion Parameters.*" **ICML**, 2023.
 - Lucas Beyer, Pavel Izmailov, Alexander Kolesnikov, Mathilde Caron, Simon Kornblith, Xiaohua Zhai, Matthias Minderer, Michael Tschannen, Ibrahim Alabdulmohsin, Filip Pavetic: "*FlexiViT: One Model for All Patch Sizes*," **CVPR**, 2023.
 - Ibrahim Alabdulmohsin, Nicole Chiou, Alexander D'Amour, Arthur Gretton, Sanmi Koyejo, Matt J. Kusner, Stephen R. Pfohl, Olawale Salaudeen, Jessica Schrouff, Katherine Tsai: "*Adapting to Latent Subgroup Shifts via Concepts and Proxies*," **AISTATS**, 2023.
 - Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai: "*Revisiting Neural Scaling Laws in Language and Vision*," **NeurIPS**, 2022.
