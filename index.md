@@ -26,10 +26,19 @@ Welcome to my page! I am a senior research scientist at [Google Deepmind](https:
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
 ## Recent Preprints
--  Amr Khalifa, Michael C. Mozer, Hanie Sedghi, Behnam Neyshabur, Ibrahim Alabdulmohsin: "*Layer-Stack Temperature Scaling*," arXiv:2211.10193, 2022.
+-  	Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski, et al:
+"*PaLI-3 Vision Language Models: Smaller, Faster, Stronger.*" ArXiv: abs/2310.09199 (2023)
+-   Xi Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo, Jialin Wu, Carlos Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi Tay, Siamak Shakeri, Mostafa Dehghani, Daniel Salz, Mario Lucic, Michael Tschannen, Arsha Nagrani, Hexiang Hu, Mandar Joshi, Bo Pang, Ceslee Montgomery, Paulina Pietrzyk, Marvin Ritter, A. J. Piergiovanni, Matthias Minderer, Filip Pavetic, Austin Waters, Gang Li, Ibrahim Alabdulmohsin, Lucas Beyer, et al:
+"*PaLI-X: On Scaling up a Multilingual Vision and Language Model.*" ArXiv: abs/2305.18565 (2023)
 
 ## Recent Publications
-- Dehghani, M., Djolonga, J., Mustafa, B., Padlewski, P., Heek, J., Gilmer, J., Steiner, A., Caron, M., Geirhos, R., Alabdulmohsin, I., et al. "*Scaling Vision Transformers to 22 Billion Parameters.*" **ICML**, 2023.
+- Ibrahim Alabdulmohsin, Xiao Wang, Andreas Peter Steiner, Priya Goyal, Alexander D'Amour, Xiaohua Zhai: "*CLIP the Bias: How Useful is Balancing Data in Multimodal Learning?*" **ICLR**, 2024.
+- Ibrahim Alabdulmohsin, Xiaohua Zhai, Alexander Kolesnikov, Lucas Beyer:
+"*Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design.*" **NeurIPS**, 2023.
+- Mostafa Dehghani, Basil Mustafa, Josip Djolonga, Jonathan Heek, Matthias Minderer, Mathilde Caron, Andreas Steiner, Joan Puigcerver, Robert Geirhos, Ibrahim Alabdulmohsin, Avital Oliver, Piotr Padlewski, Alexey A. Gritsenko, Mario Lucic, Neil Houlsby: "*Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution.*"
+ **NeurIPS**, 2023.
+- Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Peter Steiner, Mathilde Caron, Robert Geirhos, Ibrahim Alabdulmohsin, Rodolphe Jenatton, Lucas Beyer, Michael Tschannen, et al:
+"*Scaling Vision Transformers to 22 Billion Parameters.*" **ICML**, 2023.
 - Lucas Beyer, Pavel Izmailov, Alexander Kolesnikov, Mathilde Caron, Simon Kornblith, Xiaohua Zhai, Matthias Minderer, Michael Tschannen, Ibrahim Alabdulmohsin, Filip Pavetic: "*FlexiViT: One Model for All Patch Sizes*," **CVPR**, 2023.
 - Ibrahim Alabdulmohsin, Nicole Chiou, Alexander D'Amour, Arthur Gretton, Sanmi Koyejo, Matt J. Kusner, Stephen R. Pfohl, Olawale Salaudeen, Jessica Schrouff, Katherine Tsai: "*Adapting to Latent Subgroup Shifts via Concepts and Proxies*," **AISTATS**, 2023.
 - Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai: "*Revisiting Neural Scaling Laws in Language and Vision*," **NeurIPS**, 2022.
