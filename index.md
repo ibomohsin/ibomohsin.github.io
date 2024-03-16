@@ -26,12 +26,14 @@ Welcome to my page! I am a senior research scientist at [Google Deepmind](https:
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
 ## Recent Preprints
+- Ibrahim Alabdulmohsin, Vinh Q. Tran, and Mostafa Dehghani.
+  "*Fractal Patterns May Unravel the Intelligence in Next-Token Prediction.*" arXiv preprint arXiv:2402.01825 (2024).
 -  	Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski, et al:
 "*PaLI-3 Vision Language Models: Smaller, Faster, Stronger.*" ArXiv: abs/2310.09199 (2023)
--   Xi Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo, Jialin Wu, Carlos Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi Tay, Siamak Shakeri, Mostafa Dehghani, Daniel Salz, Mario Lucic, Michael Tschannen, Arsha Nagrani, Hexiang Hu, Mandar Joshi, Bo Pang, Ceslee Montgomery, Paulina Pietrzyk, Marvin Ritter, A. J. Piergiovanni, Matthias Minderer, Filip Pavetic, Austin Waters, Gang Li, Ibrahim Alabdulmohsin, Lucas Beyer, et al:
-"*PaLI-X: On Scaling up a Multilingual Vision and Language Model.*" ArXiv: abs/2305.18565 (2023)
 
 ## Recent Publications
+-   Xi Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo, Jialin Wu, Carlos Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi Tay, Siamak Shakeri, Mostafa Dehghani, Daniel Salz, Mario Lucic, Michael Tschannen, Arsha Nagrani, Hexiang Hu, Mandar Joshi, Bo Pang, Ceslee Montgomery, Paulina Pietrzyk, Marvin Ritter, A. J. Piergiovanni, Matthias Minderer, Filip Pavetic, Austin Waters, Gang Li, Ibrahim Alabdulmohsin, Lucas Beyer, et al:
+"*PaLI-X: On Scaling up a Multilingual Vision and Language Model.*" **CVPR**, 2023.
 - Ibrahim Alabdulmohsin, Xiao Wang, Andreas Peter Steiner, Priya Goyal, Alexander D'Amour, Xiaohua Zhai: "*CLIP the Bias: How Useful is Balancing Data in Multimodal Learning?*" **ICLR**, 2024.
 - Ibrahim Alabdulmohsin, Xiaohua Zhai, Alexander Kolesnikov, Lucas Beyer:
 "*Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design.*" **NeurIPS**, 2023.
