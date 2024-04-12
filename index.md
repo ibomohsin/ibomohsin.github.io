@@ -18,8 +18,10 @@ Welcome to my page! I am a senior research scientist at [Google Deepmind](https:
   - _Highest Distinction_, _Superior Scholarship Award_, _Minor in Economics_.
 
 ## Selected Activities
-- Program committee member at [NeurIPS](https://nips.cc/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/Conferences/AAAI-22/), [CVPR](https://cvpr2023.thecvf.com/), and [IJCAI](https://ijcai-22.org/).
-- Member of the [S20 Task Force](https://s20saudiarabia.org.sa/theme.html) (Digital Revolution), 2020.
+- Area Chair @ [NeurIPS](https://nips.cc/).
+- Program committee member at [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/Conferences/AAAI-22/), [CVPR](https://cvpr2023.thecvf.com/) and [ECCV](https://eccv.ecva.net/).
+- [Featured](https://lnkd.in/eGPzHwi7) at the Saudi national TV on March, 2024. The episode explored my career.
+- Member of the [S20 Task Force](https://s20saudiarabia.org.sa/theme.html) (Digital Revolution) that contributed to an executive report for the G20 summit, 2020.
 - Chair of AI track of the 2019 [Arab-American Frontiers Symposium](https://www.nationalacademies.org/our-work/arab-american-frontiers-of-science-engineering-and-medicine), 2019.
 
 ## Books
@@ -32,9 +34,9 @@ Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fraction
 "*PaLI-3 Vision Language Models: Smaller, Faster, Stronger.*" ArXiv: abs/2310.09199 (2023)
 
 ## Recent Publications
+- Ibrahim Alabdulmohsin, Xiao Wang, Andreas Peter Steiner, Priya Goyal, Alexander D'Amour, Xiaohua Zhai: "*CLIP the Bias: How Useful is Balancing Data in Multimodal Learning?*" **ICLR**, 2024.
 -   Xi Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo, Jialin Wu, Carlos Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi Tay, Siamak Shakeri, Mostafa Dehghani, Daniel Salz, Mario Lucic, Michael Tschannen, Arsha Nagrani, Hexiang Hu, Mandar Joshi, Bo Pang, Ceslee Montgomery, Paulina Pietrzyk, Marvin Ritter, A. J. Piergiovanni, Matthias Minderer, Filip Pavetic, Austin Waters, Gang Li, Ibrahim Alabdulmohsin, Lucas Beyer, et al:
 "*PaLI-X: On Scaling up a Multilingual Vision and Language Model.*" **CVPR**, 2023.
-- Ibrahim Alabdulmohsin, Xiao Wang, Andreas Peter Steiner, Priya Goyal, Alexander D'Amour, Xiaohua Zhai: "*CLIP the Bias: How Useful is Balancing Data in Multimodal Learning?*" **ICLR**, 2024.
 - Ibrahim Alabdulmohsin, Xiaohua Zhai, Alexander Kolesnikov, Lucas Beyer:
 "*Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design.*" **NeurIPS**, 2023.
 - Mostafa Dehghani, Basil Mustafa, Josip Djolonga, Jonathan Heek, Matthias Minderer, Mathilde Caron, Andreas Steiner, Joan Puigcerver, Robert Geirhos, Ibrahim Alabdulmohsin, Avital Oliver, Piotr Padlewski, Alexey A. Gritsenko, Mario Lucic, Neil Houlsby: "*Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution.*"
