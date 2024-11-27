@@ -18,8 +18,8 @@ Welcome to my page! I am a senior research scientist at [Google Deepmind](https:
   - _Highest Distinction_, _Superior Scholarship Award_, _Minor in Economics_.
 
 ## Selected Activities
-- Area Chair @ [NeurIPS](https://nips.cc/).
-- Program committee member at [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/Conferences/AAAI-22/), [CVPR](https://cvpr2023.thecvf.com/) and [ECCV](https://eccv.ecva.net/).
+- Area Chair @ [NeurIPS](https://nips.cc/) and [ICML](https://icml.cc/).
+- Program committee member at [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/Conferences/AAAI-22/), [CVPR](https://cvpr2023.thecvf.com/) and [ECCV](https://eccv.ecva.net/).
 - [Featured](https://lnkd.in/eGPzHwi7) at the Saudi national TV on March, 2024. The episode explored my career.
 - Member of the [S20 Task Force](https://s20saudiarabia.org.sa/theme.html) (Digital Revolution) that contributed to an executive report for the G20 summit, 2020.
 - Chair of AI track of the 2019 [Arab-American Frontiers Symposium](https://www.nationalacademies.org/our-work/arab-american-frontiers-of-science-engineering-and-medicine), 2019.
@@ -28,12 +28,13 @@ Welcome to my page! I am a senior research scientist at [Google Deepmind](https:
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
 ## Recent Preprints
-- Bo Wan, Michael Tschannen, Yongqin Xian, Filip Pavetic, Ibrahim Alabdulmohsin, Xiao Wang, André Susano Pinto, Andreas Steiner, Lucas Beyer, Xiaohua Zhai: "*LocCa: Visual Pretraining with Location-aware Captioners*" arXiv:2403.19596 (2024).
-- Ibrahim Alabdulmohsin, Vinh Q. Tran, and Mostafa Dehghani: "*Fractal Patterns May Unravel the Intelligence in Next-Token Prediction.*" arXiv:2402.01825 (2024).
 - Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski, et al:
 "*PaLI-3 Vision Language Models: Smaller, Faster, Stronger.*" ArXiv: abs/2310.09199 (2023)
 
 ## Recent Publications
+- Ibrahim Alabdulmohsin, Vinh Q. Tran, and Mostafa Dehghani: "*Fractal Patterns May Illuminate the Success of Next-Token Prediction.*" **NeurIPS**, 2024.
+- Bo Wan, Michael Tschannen, Yongqin Xian, Filip Pavetic, Ibrahim Alabdulmohsin, Xiao Wang, André Susano Pinto, Andreas Steiner, Lucas Beyer, Xiaohua Zhai: "*LocCa: Visual Pretraining with Location-aware Captioners*" **NeurIPS**, 2024.
+- Angéline Pouget, Lucas Beyer, Emanuele Bugliarello, Xiao Wang, Andreas Peter Steiner, Xiaohua Zhai, Ibrahim Alabdulmohsin: "*No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models*" **NeurIPS**, 2024.
 - Ibrahim Alabdulmohsin, Xiao Wang, Andreas Peter Steiner, Priya Goyal, Alexander D'Amour, Xiaohua Zhai: "*CLIP the Bias: How Useful is Balancing Data in Multimodal Learning?*" **ICLR**, 2024.
 -   Xi Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo, Jialin Wu, Carlos Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi Tay, Siamak Shakeri, Mostafa Dehghani, Daniel Salz, Mario Lucic, Michael Tschannen, Arsha Nagrani, Hexiang Hu, Mandar Joshi, Bo Pang, Ceslee Montgomery, Paulina Pietrzyk, Marvin Ritter, A. J. Piergiovanni, Matthias Minderer, Filip Pavetic, Austin Waters, Gang Li, Ibrahim Alabdulmohsin, Lucas Beyer, et al:
 "*PaLI-X: On Scaling up a Multilingual Vision and Language Model.*" **CVPR**, 2024.
