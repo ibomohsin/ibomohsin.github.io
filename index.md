@@ -28,10 +28,16 @@ Prior to joining Google Deepmind in Zürich, I founded and led the Advanced Anal
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
 ## Recent Preprints
+- Wang, X., Alabdulmohsin, I., Salz, D., Li, Z., Rong, K. and Zhai, X., 2025. Scaling pre-training to one hundred billion data for vision language models. arXiv preprint arXiv:2502.07617.
+- Tschannen, M., Gritsenko, A., Wang, X., Naeem, M.F., Alabdulmohsin, I., Parthasarathy, N., Evans, T., Beyer, L., Xia, Y., Mustafa, B. and Hénaff, O., 2025. Siglip 2: Multilingual vision-language encoders with improved semantic understanding, localization, and dense features. arXiv preprint arXiv:2502.14786.
+- Steiner, A., Pinto, A.S., Tschannen, M., Keysers, D., Wang, X., Bitton, Y., Gritsenko, A., Minderer, M., Sherbondy, A., Long, S. and Qin, S., 2024. Paligemma 2: A family of versatile vlms for transfer. arXiv preprint arXiv:2412.03555.
+- Beyer, L., Steiner, A., Pinto, A.S., Kolesnikov, A., Wang, X., Salz, D., Neumann, M., Alabdulmohsin, I., Tschannen, M., Bugliarello, E. and Unterthiner, T., 2024. Paligemma: A versatile 3b vlm for transfer. arXiv preprint arXiv:2407.07726.
 - Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski, et al:
 "*PaLI-3 Vision Language Models: Smaller, Faster, Stronger.*" ArXiv: abs/2310.09199 (2023)
 
 ## Recent Publications
+- Alabdulmohsin, I. and Zhai, X.: *Recursive Inference Scaling: A Winning Path to Scalable Inference in Language and Multimodal Systems.* **NeurIPS**, 2025.
+- Alabdulmohsin, I. and Steiner, A: *A Tale of Two Structures: Do LLMs Capture the Fractal Complexity of Language?* **ICML**, 2025.
 - Ibrahim Alabdulmohsin, Vinh Q. Tran, and Mostafa Dehghani: "*Fractal Patterns May Illuminate the Success of Next-Token Prediction.*" **NeurIPS**, 2024.
 - Bo Wan, Michael Tschannen, Yongqin Xian, Filip Pavetic, Ibrahim Alabdulmohsin, Xiao Wang, André Susano Pinto, Andreas Steiner, Lucas Beyer, Xiaohua Zhai: "*LocCa: Visual Pretraining with Location-aware Captioners*" **NeurIPS**, 2024.
 - Angéline Pouget, Lucas Beyer, Emanuele Bugliarello, Xiao Wang, Andreas Peter Steiner, Xiaohua Zhai, Ibrahim Alabdulmohsin: "*No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models*" **NeurIPS**, 2024.
