@@ -4,9 +4,7 @@ layout: default
 
 ## About me
 
-I'm passionate about advancing ethical and inclusive AI, with a particular focus on developing robust multimodal systems, understanding neural network behavior, and addressing fairness and cultural diversity in machine learning models. I am also interested in the application of mathematical tools, such as fractals, statistical learning theory & information theory, to understand the capabilities and limitations of deep neural networks. 
-
-Prior to joining Google Deepmind in Zürich, I founded and led the Advanced Analytics team at Saudi Aramco, managed the company’s Enterprise Analytics program, and was a technical lead at its digital transformation program. 
+Passionate about building AI systems rooted in first principles, striving to fully understand their capabilities and limitations. I enjoy deconstructing complex problems to reveal their underlying structure, balancing rigorous technical analysis with strategic, big-picture thinking. My current research explores pushing the boundaries of parameter efficiency—through techniques such as scaling laws, shape optimization, and recursive inference—without compromising on critical dimensions like fairness, safety, and cultural diversity.
 
 
 ## Education
