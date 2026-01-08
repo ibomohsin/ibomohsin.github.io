@@ -25,6 +25,11 @@ Passionate about building AI systems rooted in first principles, striving to ful
 ## Books
 Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fractional Finite Sums*, Springer, 2018.
 
+Many identities derived in this book were featured in websites such as Wikipedia and OEIS, including:
+* **Wikipedia:** Identities relating the Euler-Mascheroni constant ($\gamma$) to approximation errors are featured in the entry for [Euler's Constant](https://en.wikipedia.org/wiki/Euler%27s_constant#Asymptotic_expansions).
+* **Wikipedia:** Novel series expansions involving logarithmic numbers are featured in the entry for [Gregory Coefficients](https://en.wikipedia.org/wiki/Gregory_coefficients#Series_with_Gregory_coefficients).
+* **OEIS:** Sequence data and summation results are archived in the *On-Line Encyclopedia of Integer Sequences* (e.g., [A002206](https://oeis.org/A002206)).
+* 
 ## Recent Preprints
 - Wang, X., Alabdulmohsin, I., Salz, D., Li, Z., Rong, K. and Zhai, X., 2025. Scaling pre-training to one hundred billion data for vision language models. arXiv preprint arXiv:2502.07617.
 - Tschannen, M., Gritsenko, A., Wang, X., Naeem, M.F., Alabdulmohsin, I., Parthasarathy, N., Evans, T., Beyer, L., Xia, Y., Mustafa, B. and Hénaff, O., 2025. Siglip 2: Multilingual vision-language encoders with improved semantic understanding, localization, and dense features. arXiv preprint arXiv:2502.14786.
