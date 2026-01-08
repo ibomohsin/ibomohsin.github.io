@@ -28,7 +28,7 @@ Ibrahim Alabdulmohsin, *Summability Calculus: A Comprehensive Theory of Fraction
 Many identities derived in this book were featured in websites such as Wikipedia and OEIS, including:
 * **Wikipedia:** Identities relating the Euler-Mascheroni constant ($\gamma$) to approximation errors are featured in the entry for [Euler's Constant](https://en.wikipedia.org/wiki/Euler%27s_constant#Asymptotic_expansions).
 * **Wikipedia:** New beautiful series involving logarithmic numbers are featured in the entry for [Gregory Coefficients](https://en.wikipedia.org/wiki/Gregory_coefficients#Series_with_Gregory_coefficients).
-* **OEIS:** Other identities involving Gregory and Cauchy coefficients are mentioned in the *On-Line Encyclopedia of Integer Sequences* (e.g., [A002206](https://oeis.org/A002206)).
+* **OEIS:** Other identities involving Gregory and Cauchy coefficients are mentioned in the *On-Line Encyclopedia of Integer Sequences* (e.g., [A002206](https://oeis.org/A002206), [A002207](https://oeis.org/A002207), [A002790](https://oeis.org/A002790), [A002657](https://oeis.org/A002657)).
 
 ## Recent Preprints
 - Wang, X., Alabdulmohsin, I., Salz, D., Li, Z., Rong, K. and Zhai, X., 2025. Scaling pre-training to one hundred billion data for vision language models. arXiv preprint arXiv:2502.07617.
